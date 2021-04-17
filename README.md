@@ -2,7 +2,7 @@
 I started my professional career as a geography teacher in the public and private schools. I taught Informatics to elementary school students in the public schools
 in São Paulo city, which made my interest in technology grow. I graduated in Natural Sciences in my second graduation at the University of São Paulo (USP), 
 which put me in touch with mathematics in my first scientific initiation, in which I studied number theory. As I get involved with the exact ones, I am currently 
-developing academic research at the doctoral degree at the University of São Paulo (USP) Sustainability Graduate Program, studying marine bioindicators in the field
+developing academic research at the doctoral degree at the USP Sustainability Graduate Program, studying marine bioindicators in the field
 of Environmental Science and Technology. A survey employs high-level technologies available at the National Synchrotron Light Laboratory (LNLS - Brazil) at the 
 National Center for Research in Energy and Materials (CNPEM). My interest in technology became my main activity, because my research involves a large volume 
 of data, programming and statistics. Then I learned to deal with R programming. In order not to have problems with the expenses of software licenses owners, 
