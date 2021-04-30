@@ -10,6 +10,14 @@ I always use, as much as possible, open source softwares. This way was easier to
 a system that I loved! In addition, I developeded editorial skills. LaTex editing (documents and beamer), image processing with Inkscape and Gimp, geospatial 
 data processing with Qgis and advanced use of Excel are among the technologies that I work with.
 
+Techs:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+
+
 - 👀 My social networks are:
  
   - [LinkedIn](https://www.linkedin.com/in/leonardo-pregnolato-1048b815a/)
@@ -18,10 +26,10 @@ data processing with Qgis and advanced use of Excel are among the technologies t
   - [Instagram](https://www.instagram.com/leopreg/)
 
 
-[![Outlok Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leopregnolato@outlook.com)](mailto:leopregnolato@outlook.com)
+![leopregnolato's github stats](https://github-readme-stats.vercel.app/api?username=leopregnolato&show_icons=true)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-pregnolato-1048b815a/)](https://www.linkedin.com/in/leonardo-pregnolato-1048b815a/)
-  
+
+
   
 
 <!---
