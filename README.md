@@ -17,6 +17,9 @@ data processing with Qgis and advanced use of Excel are among the technologies t
   - [Facebook](https://www.facebook.com/leonardo.pregnolato.1/)
   - [Instagram](https://www.instagram.com/leopreg/)
 
+
+[![Outlok Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leopregnolato@outlook.com)](mailto:leopregnolato@outlook.com)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-pregnolato-1048b815a/)](https://www.linkedin.com/in/leonardo-pregnolato-1048b815a/)
   
   
