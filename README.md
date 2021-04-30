@@ -16,6 +16,8 @@ data processing with Qgis and advanced use of Excel are among the technologies t
   - [ResearchGate](https://www.researchgate.net/profile/Leonardo-Pregnolato-2)
   - [Facebook](https://www.facebook.com/leonardo.pregnolato.1/)
   - [Instagram](https://www.instagram.com/leopreg/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-pregnolato-1048b815a/)](https://www.linkedin.com/in/leonardo-pregnolato-1048b815a/)
   
   
 
