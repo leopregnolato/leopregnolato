@@ -26,7 +26,7 @@
 ![Microsoft-Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=Microsoft-Azure&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?logo=windows&logoColor=white)
 
-### About me:
+### Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/leonardo-pregnolato-1048b815a/)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?logo=Behance&logoColor=white&style=for-the-badge)](https://www.behance.net/leopregnolea86)
@@ -35,6 +35,10 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/leonardo.pregnolato.1/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/leopreg/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=WhatsApp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send?phone=5511987418865)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/leopreg)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?logo=Microsoft-Outlook&logoColor=white&style=for-the-badge)](mailto:leopregnolato@outlook.com?Subject=First%20Contact)
+
+### More about me:
 
 Hi, I’m @leopregnolato. I was born in Guarulhos (Brazil - SP) and I raised in Itaquaquecetuba (Brazil - SP). I did my basic school in the same city. 
 I started my professional career as a geography teacher in the public and private schools. I taught Informatics to elementary school students in the public schools
