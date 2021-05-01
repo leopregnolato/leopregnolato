@@ -1,4 +1,17 @@
-- 👋 Hi, I’m @leopregnolato. I was born in Guarulhos (Brazil - SP) and I raised in Itaquaquecetuba (Brazil - SP). I did my basic school in the same city. 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leopregnolato&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopregnolato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# Techs:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+
+# About me:
+
+Hi, I’m @leopregnolato. I was born in Guarulhos (Brazil - SP) and I raised in Itaquaquecetuba (Brazil - SP). I did my basic school in the same city. 
 I started my professional career as a geography teacher in the public and private schools. I taught Informatics to elementary school students in the public schools
 in São Paulo city, which made my interest in technology grow. I graduated in Natural Sciences in my second graduation at the University of São Paulo (USP), 
 which put me in touch with mathematics in my first scientific initiation, in which I studied number theory. As I get involved with the exact ones, I am currently 
@@ -10,30 +23,14 @@ I always use, as much as possible, open source softwares. This way was easier to
 a system that I loved! In addition, I developeded editorial skills. LaTex editing (documents and beamer), image processing with Inkscape and Gimp, geospatial 
 data processing with Qgis and advanced use of Excel are among the technologies that I work with.
 
-Techs:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 
 
-- 👀 My social networks are:
+# 👀 My social networks are:
  
   - [LinkedIn](https://www.linkedin.com/in/leonardo-pregnolato-1048b815a/)
   - [ResearchGate](https://www.researchgate.net/profile/Leonardo-Pregnolato-2)
   - [Facebook](https://www.facebook.com/leonardo.pregnolato.1/)
   - [Instagram](https://www.instagram.com/leopreg/)
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leopregnolato&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopregnolato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
   
 
 <!---
