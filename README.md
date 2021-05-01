@@ -26,8 +26,12 @@ Techs:
   - [Instagram](https://www.instagram.com/leopreg/)
 
 
-![leopregnolato's github stats](https://github-readme-stats.vercel.app/api?username=leopregnolato&show_icons=true)
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leopregnolato&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopregnolato&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
