@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leopregnolato&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopregnolato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Skills:
+### Skills:
 
 ![R](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=LaTeX&logoColor=white)
@@ -12,13 +12,21 @@
 ![Qgis](https://img.shields.io/badge/-Qgis-589632?logo=Qgis&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=RStudio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white)
+![Microsoft-Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A?logo=Microsoft-Word&logoColor=white)
+![Microsoft-Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=Microsoft-Excel&logoColor=white)
+![Microsoft-PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A?logo=Microsoft-PowerPoint&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?logo=LibreOffice&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?logo=linux&logoColor=white)
+![Microsoft-Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=Microsoft-Azure&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?logo=windows&logoColor=white)
 
-## About me:
+### About me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/leonardo-pregnolato-1048b815a/)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?logo=Behance&logoColor=white&style=for-the-badge)](https://www.behance.net/leopregnolea86)
