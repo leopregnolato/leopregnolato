@@ -52,6 +52,14 @@ I always use, as much as possible, open source softwares. This way was easier to
 a system that I loved! In addition, I developeded editorial skills. LaTex editing (documents and beamer), image processing with Inkscape and Gimp, geospatial 
 data processing with Qgis and advanced use of Excel are among the technologies that I work with.
 
+### Extras:
+
+[![MyCV](https://img.shields.io/badge/-My%20Academic%20CV-0076D6?logo=Internet-Explorer&logoColor=white&style=flat-square)](http://lattes.cnpq.br/4810403935692246)
+[![ChineseClub](https://img.shields.io/badge/-Chinese%20Club-FF0000?logo=YouTube&logoColor=white&style=flat-square)](https://www.youtube.com/watch?v=vzKdTrnqzdY&t=9s)
+[![MyAcademicResearch](https://img.shields.io/badge/-My%20Academic%20Research-FF0000?logo=YouTube&logoColor=white&style=flat-square)](https://www.youtube.com/watch?v=majqNfkgjH4)
+
+
+
 <!---
 leopregnolato/leopregnolato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
