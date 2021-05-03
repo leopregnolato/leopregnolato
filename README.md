@@ -20,6 +20,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?logo=linux&logoColor=white)
