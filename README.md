@@ -22,6 +22,8 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.NET&logoColor=white)
+![Csharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=C%20Sharp&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?logo=linux&logoColor=white)
 ![Microsoft-Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=Microsoft-Azure&logoColor=white)
