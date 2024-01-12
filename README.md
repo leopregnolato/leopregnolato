@@ -28,7 +28,7 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=LaTeX&logoColor=white)
 
 ## Contact me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/leonardo-pregnolato-1048b815a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/leonardo-antonio-pregnolato-1048b815a/)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?logo=ResearchGate&logoColor=white&style=for-the-badge)](https://www.researchgate.net/profile/Leonardo-Pregnolato-2)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/leopreg/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=WhatsApp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send?phone=5511987418865)
